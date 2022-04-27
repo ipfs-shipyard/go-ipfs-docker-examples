@@ -1,6 +1,6 @@
 # Gateway Example
-You won't be to use this as-is, but it does highlight some interesting options
-you might want to toggle inside the container.
+You won't be able to use this as-is, but it does highlight some interesting
+options you might want to toggle inside the container.
 
 It has: 
 - config examples for path and subdomain gateways (with the well-known PL ones
