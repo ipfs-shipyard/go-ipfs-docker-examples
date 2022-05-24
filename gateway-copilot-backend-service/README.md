@@ -1,7 +1,8 @@
 # Gateway as a copilot Backend Service (caviet - WIP!)
 
-An [AWS Copilot](https://aws.github.io/copilot-cli/) [Backend
-Service](https://aws.github.io/copilot-cli/docs/manifest/backend-service/)
+A [Backend
+Service](https://aws.github.io/copilot-cli/docs/manifest/backend-service/) on
+[AWS Copilot](https://aws.github.io/copilot-cli/)
 
 Essentially one-click deployment of a gateway as a "backend service"
 (autoscaling at Fargate Spot pricing, each node has a port open so is a full
